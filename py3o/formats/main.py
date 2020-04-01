@@ -70,7 +70,7 @@ class Formats(object):
                 FORMAT_XLS, "MS Excel 97", "application/msexcel"
             ),
             FORMAT_DOCX: Format(
-                FORMAT_DOCX, "MS Word 2007-2013 XML",
+                FORMAT_DOCX, "Office Open XML Text",
                 "application/vnd.openxmlformats-officedocument"
                 ".wordprocessingml.document"
             ),
